@@ -1,6 +1,10 @@
 #!/usr/bin/env python2
 # coding: utf-8
-
+############################################################
+# Original source: https://gist.github.com/scturtle/1035886
+# NOTE: Change your IP Address below
+#
+############################################################
 import os,socket,threading,time
 #import traceback
 
