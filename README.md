@@ -1,7 +1,4 @@
 # SimpleFTPServer
-
-A quick/simple FTP server
-
 This is a fork of https://gist.github.com/scturtle/1035886
 
 
